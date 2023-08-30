@@ -65,11 +65,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-run comment:
-composer update
-npm install
-php artisan serve 
-##security:
-admin:jalal@gmail.com
-pass:12345678
+<strong>run comment:</strong>
+<p>composer update</p>
+<p>npm install</p>
+<p>php artisan serve</p>
+
+ 
+<strong>##security:</strong>
+<p>admin:jalal@gmail.com</p>
+<p>pass:12345678</p>
+
+
 
